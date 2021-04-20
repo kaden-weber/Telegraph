@@ -7,7 +7,6 @@ To create a pull request:
 - Fork this project on GitHub
 - Clone your fork to your system
 - Make your changes
-- Update the [CHANGELOG.md](https://github.com/Building42/Telegraph/blob/main/CHANGELOG.md)
 - If necessary, explain your feature in the [README.md](https://github.com/Building42/Telegraph/blob/main/README.md)
 - If possible, add tests for your code
 - Commit your changes (try to keep your message in line with the rest of the repo)
